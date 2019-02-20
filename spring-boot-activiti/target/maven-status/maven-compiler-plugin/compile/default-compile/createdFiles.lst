@@ -1,0 +1,14 @@
+com/crionline/activiti/model/Person.class
+com/crionline/activiti/dao/PersonRepository.class
+com/crionline/activiti/dao/CompRepository.class
+com/crionline/activiti/listener/Task1ListenerImpl_3.class
+com/crionline/activiti/service/JoinService.class
+com/crionline/activiti/controller/MyRestController.class
+com/crionline/activiti/model/Comp.class
+com/crionline/activiti/listener/Task1ListenerImpl_4.class
+com/crionline/activiti/service/ActivitiService.class
+com/crionline/activiti/listener/Task1ListenerImpl_1.class
+ActivitiApplication$1.class
+com/crionline/activiti/listener/Task1ListenerImpl_2.class
+com/crionline/activiti/controller/MyRestController$TaskRepresentation.class
+ActivitiApplication.class
